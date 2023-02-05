@@ -1,1 +1,1 @@
-# account-public-service-prod03-ol-epicgames.myshopify.com
+# account-public-service-prod03-ol-epicgames.com
